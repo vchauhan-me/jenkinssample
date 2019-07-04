@@ -1,2 +1,0 @@
-# jenkinssample
-testing jenkins sample
